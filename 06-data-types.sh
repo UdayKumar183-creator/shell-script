@@ -12,4 +12,4 @@ echo "How many args passed:: $#"
 
 echo "All args passed:: $@"
 
-echp "Script name:: $0"
+echo "Script name:: $0"
